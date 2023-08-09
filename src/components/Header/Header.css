@@ -1,0 +1,15 @@
+*body{
+    margin: 0;
+}
+
+.header{
+    height: 80px;
+    background-color: #1c2b35;
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
