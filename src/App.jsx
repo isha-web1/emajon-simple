@@ -1,6 +1,7 @@
 
 
 import Header from './components/Header/Header'
+import Shop from './components/Shop/Shop'
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
   return (
     <div className='body'>
     <Header></Header>
-     
+     <Shop></Shop>
     </div>
   )
 }
