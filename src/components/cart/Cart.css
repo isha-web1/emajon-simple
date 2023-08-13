@@ -1,7 +1,8 @@
 .cart{
     background-color: #FF9900;
     padding: 30px;
-    
+    position: sticky;
+    top: 0;
 }
 
 .cart h3 {
